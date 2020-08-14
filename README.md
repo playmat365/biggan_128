@@ -1,12 +1,12 @@
-# biggan-deep-128 图片素材
+# biggan-128 图片素材
 
-由神经网络 biggan-deep-128 生成的图片
+由神经网络 biggan-128 生成的图片
 
-* 模型来源：[https://tfhub.dev/deepmind/biggan-deep-128/1](https://tfhub.dev/deepmind/biggan-deep-128/1)
+* 模型来源：[https://tfhub.dev/deepmind/biggan-128/2](https://tfhub.dev/deepmind/biggan-128/2)
 * 使用 tensorflow 2.3 运行
 * 共 1000 类，每类生成 100 张图片，以 jpg 格式储存
 
-网页版：[https://playmat365.github.io/biggan_deep_128/](https://playmat365.github.io/biggan_deep_128/)
+网页版：[https://playmat365.github.io/biggan_128/](https://playmat365.github.io/biggan_128/)
 
 # 预览
 
